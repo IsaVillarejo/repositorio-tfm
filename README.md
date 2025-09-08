@@ -1,7 +1,7 @@
 # repositorio-tfm
 Este repositorio contiene el código empleado para el procesamiento de los datos e implementación de modelos para la detección de fraude sobre el conjunto IEEE-CIS Fraud Detection de Kaggle. Se incluyen dos notebooks correspondientes a las dos perspectivas empleadas para el balanceo de datos
 
- -TFM_CLASSWEIGHT: preprocesamiento de datos e implementación de modelos usando técnica de ponderación de clases para abordar el problema de desbalanceo.
+ - TFM_CLASSWEIGHT: preprocesamiento de datos e implementación de modelos usando técnica de ponderación de clases para abordar el problema de desbalanceo.
  - TFM_SMOTE: preprocesamiento de datos e implementación de modelos usando SMOTE para balancear las clases.
 
 Descripción del dataset:
